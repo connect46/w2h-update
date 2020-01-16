@@ -49,24 +49,25 @@ showcase:
 # about
 about:
   enable: true
-  title: "Human behavior is the final common pathway for nearly every advance in medicine"
+  title: "Patients are at the heart of all healthcare"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    Human behavior is the final common pathway to nearly every advance in medicine. 
+    Patient engagement has been called the blockbuster drug of the 21st century.   
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+    Designed by leading clinicians, researchers and behavioral scientists from the
+    University of Pennsylvania, Way to Health focuses on the intersection of evidence and engagement. 
+    This intersection is where new insights on engagement effectiveness and targeting are emerging.
     </p>'
   button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    icon: ""
+    btnText: "Learn More"
+    URL: "/about"
   image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
 
 # education
 education:
