@@ -111,40 +111,48 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Innovators & Segments Served"
   enable: true
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: "img/logos/chop.jpg"
 
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "img/logos/columbia.png"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "img/logos/cornell.png"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "img/logos/duke1.png"
 
     - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+        x: "img/logos/harvard.jpeg"
 
     - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+        x: "img/logos/mayo.png"
 
+    - logo:
+        x: "img/logos/mskcc.png"
+
+    - logo:
+        x: "img/logos/nwell.png"
+
+    - logo:
+        x: "img/logos/penn.png"
+
+    - logo:
+        x: "img/logos/ucla.png"
+
+    - logo:
+        x: "img/logos/washu.jpeg" 
+
+    - logo:
+        x: "img/logos/wustl.png"
+
+
+        
   works:
     - title: "Radity Finance - UI Kit"
       description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
