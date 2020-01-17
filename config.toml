@@ -1,6 +1,5 @@
 baseURL = "https://waytohealth.upenn.edu"
 languageCode = "en-us"
-theme = "raditian"
 
 # Plugins
 [params.plugins]
